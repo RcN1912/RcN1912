@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RcN1912
-- I am a web development student
+## Olá, meu nome é Lucas!
 
-
-<!---
-RcN1912/RcN1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/RcN1912">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RcN1912&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RcN1912&layout=compact&langs_count=7&theme=dark"/>
+</div>
